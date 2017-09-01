@@ -5,3 +5,10 @@ c:\users\pengwanyu\documents\visual studio 2017\Projects\PetShop\PetShop\obj\Deb
 c:\users\pengwanyu\documents\visual studio 2017\Projects\PetShop\PetShop\obj\Debug\PetShop.exe
 c:\users\pengwanyu\documents\visual studio 2017\Projects\PetShop\PetShop\obj\Debug\PetShop.pdb
 C:\Users\pengwanyu\Documents\Visual Studio 2017\Projects\PetShop\PetShop\obj\Debug\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\pengwanyu\Desktop\PetShop\PetShop\obj\Debug\PetShop.csprojResolveAssemblyReference.cache
+C:\Users\pengwanyu\Desktop\PetShop\PetShop\obj\Debug\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\pengwanyu\Desktop\PetShop\PetShop\obj\Debug\PetShop.exe
+C:\Users\pengwanyu\Desktop\PetShop\PetShop\obj\Debug\PetShop.pdb
+C:\Users\pengwanyu\Desktop\PetShop\PetShop\bin\Debug\PetShop.exe.config
+C:\Users\pengwanyu\Desktop\PetShop\PetShop\bin\Debug\PetShop.exe
+C:\Users\pengwanyu\Desktop\PetShop\PetShop\bin\Debug\PetShop.pdb
